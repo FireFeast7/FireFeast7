@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ameyasurana10@gmail.com**
 
-- 📄 Know about my experiences [https://purple-erina-47.tiiny.site](https://purple-erina-47.tiiny.site)
+- 📄 Know about my experiences [https://purple-erina-47.tiiny.site](bit.ly/3PAk8bW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
