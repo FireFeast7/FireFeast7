@@ -1,3 +1,4 @@
+![logo](https://github.com/FireFeast7/FireFeast7/blob/main/coder.gif)
 <h1 align="center">Hi 👋, I'm Ameya Surana</h1>
 <h3 align="center">Flutter App Developer , Java Developer Enthusiast , Occasional Game Developer and also an Engineering Student at PICT Pune.</h3>
 
