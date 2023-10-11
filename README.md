@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ameya Surana</h1>
 <h3 align="center">Flutter App Developer , Java Developer Enthusiast , Occasional Game Developer and also an Engineering Student at PICT Pune.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firefeast7&label=Profile%20views&color=0e75b6&style=flat" alt="firefeast7" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=firefeast7&label=Profile%20views&color=0e75b6&style=flat" alt="firefeast7" /> </p> -->
 
 - 🌱 I’m currently learning **Backend Web Development**
 
